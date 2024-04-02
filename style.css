@@ -14,3 +14,7 @@ img{
 a{
   color:red;
 }
+.shape{
+  position: relative;
+  left: 300px;
+}
